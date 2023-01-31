@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//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//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
+//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
 //spotify_sdk: ^2.3.0
 //   flutter_dotenv: ^5.0.2
 //   audioplayers: ^0.20.1
